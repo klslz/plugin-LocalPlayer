@@ -1,0 +1,12 @@
+aac		faad2 2.7-d0a0bca		git://github.com/ralph-irving/faad2.git
+alac		apple reference 69477ef		https://github.com/TimothyGu/alac
+flac		libFLAC 1.3.2			http://downloads.xiph.org/releases/flac/flac-1.3.2.tar.xz
+mad		libmad 0.15.1b-79e77c6		https://github.com/ralph-irving/libmad.git
+mpg		mpg123 1.26.3			https://www.mpg123.de/download/mpg123-1.26.3.tar.bz2
+ogg		libogg 1.3.2			http://downloads.xiph.org/releases/ogg/libogg-1.3.2.tar.gz
+vorbis		vorbis 1.3.5			http://downloads.xiph.org/releases/vorbis/libvorbis-1.3.5.tar.gz
+opus		opus 1.3.1			https://archive.mozilla.org/pub/opus/opus-1.3.1.tar.gz
+		opusfile 0.11			https://downloads.xiph.org/releases/opus/opusfile-0.11.tar.gz
+libsoxr		soxr 0.1.3			https://sourceforge.net/projects/soxr/files/soxr-0.1.3-Source.tar.xz
+lirc_client	0.9.4d				https://sourceforge.net/projects/lirc/files/LIRC/0.9.4d/lirc-0.9.4d.tar.bz2
+openssl		1.1.1g				https://www.openssl.org/source/openssl-1.1.1g.tar.gz

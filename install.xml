@@ -3,7 +3,7 @@
 <extension>
 	<name>PLUGIN_LOCALPLAYER</name>
 	<module>Plugins::LocalPlayer::Plugin</module>
-	<version>1.6.5</version>
+	<version>1.6.6</version>
 	<defaultState>enabled</defaultState>
 	<description>PLUGIN_LOCALPLAYER_DESC</description>
 	<creator>Triode</creator>
@@ -12,6 +12,6 @@
 	<targetApplication>
 		<id>SlimServer</id>
 		<minVersion>7.5</minVersion>
-        <maxVersion>*.*</maxVersion>
+        <maxVersion>8.*</maxVersion>
 	</targetApplication>
 </extension>
